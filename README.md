@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Igor Rahzel</h1>
 <h3 align="center">Passionate about AI, Machine Learning and Data Science</h3>
 
-- 🌱 I’m currently learning **PyTorch and Machine Learning Algorithms**
+- 🌱 Always studying about Deep Learning and Machine Learning
 
 - 💬 Ask me about **C, C++, Python**
 
